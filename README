@@ -1,0 +1,22 @@
+Marketing Analytics with SQL, Python, and Power BI
+
+📌 Project Overview
+
+This project demonstrates an end-to-end marketing analytics pipeline, from raw data extraction to business insights.
+The goal was to analyze marketing performance, customer engagement, and customer sentiment to support data-driven decision-making.
+
+Key steps included:
+
+* Extracting and cleaning marketing data using SQL
+
+* Enriching data with Python-based sentiment analysis on customer reviews
+
+* Building an interactive Power BI dashboard to visualize insights
+
+🛠 Tools & Technologies
+
+* SQL Server – Data extraction, cleaning, and transformations
+
+* Python (NLTK, VADER) – Sentiment analysis of customer reviews
+
+* Power BI – Data transformation, Data modeling, interactive dashboards, and visualization
